@@ -1,0 +1,31 @@
+John Doe
+john.doe@example.com | +1 (555) 234-5678 | github.com/johndoe | linkedin.com/in/johndoe
+
+SUMMARY
+Enthusiastic Full Stack Software Engineer with 3+ years of experience developing responsive web applications using React, Node.js, Express, and MongoDB. Proven track record of improving application performance and designing RESTful APIs.
+
+TECHNICAL SKILLS
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, Python
+- Frontend: React.js, Redux Toolkit, Tailwind CSS, Next.js
+- Backend: Node.js, Express.js, REST APIs, MongoDB, PostgreSQL
+- Tools: Git, GitHub, Docker, Postman, Jest, CI/CD
+
+EXPERIENCE
+Software Engineer | Tech Innovations Inc. | 2022 - Present
+- Engineered high-traffic responsive web applications using React and Node.js, improving page load speeds by 30%.
+- Designed and integrated 15+ secure RESTful API endpoints with Express and MongoDB.
+- Implemented state management using Redux Toolkit, streamlining data flow across 20+ components.
+- Collaborated in an agile team of 8 engineers, conducting code reviews and unit testing with Jest.
+
+Junior Web Developer | Digital Solutions LLC | 2021 - 2022
+- Developed user interfaces using React, JavaScript, and CSS, ensuring mobile responsiveness.
+- Integrated third-party authentication and payment gateway APIs.
+- Fixed 50+ critical bugs and optimized frontend asset delivery.
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2017 - 2021 | GPA: 3.8/4.0
+
+PROJECTS
+- E-Commerce Marketplace: Full-stack MERN application with Stripe payment processing and order management.
+- Task Management App: Real-time Kanban board built with React, WebSockets, and Node.js.
