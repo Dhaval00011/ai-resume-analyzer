@@ -29,13 +29,14 @@ export default function App() {
     formData.append('jobDescription', jobDescription);
 
     try {
-      const response = await fetch('http://localhost:5000/api/analyze', {
-        method: 'POST',
-        body: formData
-      });
+      const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+      const res = await fetch(`${API_BASE_URL}/api/analyze`, {
+      method: 'POST',
+      body: formData
+});
 
-      const resJson = await response.json();
-      if (!response.ok) {
+      const resJson = await res.json();
+      if (!res.ok) {
         throw new Error(resJson.error || 'Server error occurred during analysis.');
       }
       setAnalysis(resJson.data);
